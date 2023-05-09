@@ -8,9 +8,7 @@ class About extends Component {
     const name = this.props.data.name;
     const profilepic = "images/" + this.props.data.image;
     const bio = this.props.data.bio;
-    const street = this.props.data.address.street;
     const city = this.props.data.address.city;
-    const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
@@ -38,9 +36,7 @@ class About extends Component {
                     <span>{name}</span>
                     <br />
                     <span>
-                      {street}
-                      <br />
-                      {city} {state}, {zip}
+                    {zip} {city}  
                     </span>
                     <br />
                     <span>{phone}</span>
@@ -50,7 +46,7 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
+                    <a href={resumeDownload} download className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>
@@ -63,5 +59,4 @@ class About extends Component {
     );
   }
 }
-
 export default About;
