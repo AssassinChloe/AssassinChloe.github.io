@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Assassin Chloé",
-    "description":"Je suis développeuse C / C++ et j'ai aussi utilisé React, HTML, CSS, Javascript et Nest.js pour construire une API. \n Après des années à travailler dans le soin, je me suis ennuyée de ne pas avoir une activité plus intellectuellement exigeante. Plus je découvre la programmation plus je me sens challengée et empouvoirée de construire des solutions de plus en plus pousées", 
+    "description":"Je suis développeuse C / C++ et j'ai aussi de solides connaissances en React, HTML, CSS, Javascript et Nest.js pour construire sites et API. Plus je maitrise la programmation plus je me sens challengée et empouvoirée de construire des solutions de plus en plus pousées", 
     "image":"ProfilePic.png",
-    "bio":"Je suis étudiante à 42 Paris et je cherche le stage ou le travail qui me gardera investie et me permettra de progresser encore plus dans mes competences. J'utilise ma passion et ma créativité pour trouver des solutions innovantes aux problèmes que je rencontre en programmation et je les laisse également s'exprimer au travers de diverses activités telles que le crochet, l'escalade, la création d'objets en epoxy, l'écriture de campagne de jeux de roles, les jeux vidéos, la peinture et le dessin...",
+    "bio":"Je suis étudiante à 42 Paris et je cherche le stage ou le travail qui me gardera investie et me permettra de progresser encore plus dans mes compétences. J'utilise ma passion et ma créativité pour trouver des solutions innovantes aux problèmes que je rencontre en programmation et je les laisse également s'exprimer au travers de diverses activités telles que le crochet, l'escalade, la création d'objets en epoxy, l'écriture de campagne de jeux de roles, les jeux vidéos, la peinture et le dessin...",
     "contactmessage":"Je serais ravie que vous me contactiez !",
     "email": "clotus@hotmail.fr",
     "phone": "06.08.10.13.24",
@@ -105,7 +105,7 @@
       {
         "title":"EmeraldSense",
         "category":"Jeux 2D en C++ avec la SDL",
-        "image":"01.jpg",
+        "image":"",
         "url":""
       }
 
