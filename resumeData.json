@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name":"Assassin Chloé",
+    "description":"Je suis développeuse C / C++ et j'ai aussi utilisé React, HTML, CSS, Javascript et Nest.js pour construire une API. \n Après des années à travailler dans le soin, je me suis ennuyée de ne pas avoir une activité plus intellectuellement exigeante. Plus je découvre la programmation plus je me sens challengée et empouvoirée de construire des solutions de plus en plus pousées", 
+    "image":"ProfilePic.png",
+    "bio":"Je suis étudiante à 42 Paris et je cherche le stage ou le travail qui me gardera investie et me permettra de progresser encore plus dans mes competences. J'utilise ma passion et ma créativité pour trouver des solutions innovantes aux problèmes que je rencontre en programmation et je les laisse également s'exprimer au travers de diverses activités telles que le crochet, l'escalade, la création d'objets en epoxy, l'écriture de campagne de jeux de roles, les jeux vidéos, la peinture et le dessin...",
+    "contactmessage":"Je serais ravie que vous me contactiez !",
+    "email": "clotus@hotmail.fr",
+    "phone": "06.08.10.13.24",
+    "github":"https://github.com/AssassinChloe",
+    "project":"https://github.com/AssassinChloe",
+    "address":{
+      "city":"Savigny-sur-Orge",
+      "zip": "91600"
+    },
+    "website": "",
+    "resumedownload":"images/CV_ASSASSINChloe.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/assassinchloe/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/assassin_claw/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AssassinChloe",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technologies",
+    "education":[
+      {
+        "school":"42 - Paris",
+        "degree":"Formation Architecte en technologie du Numérique",
+        "graduated":"2023",
+        "description": "Piscine C, création d'une bibliothèque de fonction, implémentation d'algorithmes de tri, d’un environnement graphique en raycasting, d’un shell a l’image de bash. Piscine C++, réécriture de containers de la stdlib, implémentation d’un AVL-tree, développement d’un serveur IRC. Déploiement d’une stack LEMP avec Docker, création d’un site web (jeu de pong multijoueur en temps réel) avec React Postgresql et NestJS.Travaux individuels et en équipe."
+      },
+      {
+        "school":"IFOCOP Eragny",
+        "degree":"Certification développement et intégration web",
+        "graduated":"2020",
+        "description":"Création d’un portfolio, étude UI/UX, audit de site web"
+      },
+      {
+        "school":"Université Aix-Marseille",
+        "degree":"Licence de Psychologie",
+        "graduated":"2010",
+        "description":"mention Assez Bien"
+      },
+      {
+        "school":"Lycée Raynouard - Brignoles(83)",
+        "degree":"Baccalauréat S - SVT",
+        "graduated":"2007",
+        "description":"mention Assez Bien"
+      }
+    ],
+    "skills":[
+      {
+        "name":"C",
+        "level":"85%"
+      },
+      {
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"Nest.js",
+        "level":"72%"
+      },
+      {
+        "name":"Python",
+        "level":"30%"
+      },      
+      {
+        "name":"Docker",
+        "level":"68%"
+      },
+      {
+        "name":"Git",
+        "level":"73%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"EmeraldSense",
+        "category":"Jeux 2D en C++ avec la SDL",
+        "image":"01.jpg",
+        "url":""
+      }
+
+    ]
+  }
+}
