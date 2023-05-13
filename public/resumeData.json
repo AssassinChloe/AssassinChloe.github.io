@@ -30,6 +30,11 @@
         "name":"github",
         "url":"https://github.com/AssassinChloe",
         "className":"fa fa-github"
+      },
+      {
+        "name":"CondinGame",
+        "url":"https://www.codingame.com/profile/2c227c58886ec705dbc3c557687d06471299534",
+        "className":"fa fa-codingame"
       }
     ]
   },
@@ -41,6 +46,12 @@
         "degree":"Formation Architecte en technologie du Numérique",
         "graduated":"2023",
         "description": "Piscine C, création d'une bibliothèque de fonction, implémentation d'algorithmes de tri, d’un environnement graphique en raycasting, d’un shell a l’image de bash. Piscine C++, réécriture de containers de la stdlib, implémentation d’un AVL-tree, développement d’un serveur IRC. Déploiement d’une stack LEMP avec Docker, création d’un site web (jeu de pong multijoueur en temps réel) avec React Postgresql et NestJS.Travaux individuels et en équipe."
+      },
+      {
+        "school":"CodinGame",
+        "degree":"Certification C++",
+        "graduated":"2023",
+        "description":"100% avec mention. Résolution de puzzle à difficulté variable sur le site CodinGame en temps limité"
       },
       {
         "school":"IFOCOP Eragny",
@@ -104,9 +115,9 @@
     "projects": [
       {
         "title":"EmeraldSense",
-        "category":"Jeux 2D en C++ avec la SDL",
-        "image":"",
-        "url":""
+        "description":"Sur mon temps libre, création d'un jeu 2D, en partant de zéro, en C++ avec la SDL",
+        "image":"EmeraldSense.png",
+        "url":"https://github.com/AssassinChloe/EmeraldSense"
       }
 
     ]
