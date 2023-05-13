@@ -15,6 +15,7 @@ class Resume extends Component {
     if (!this.props.data) return null;
 
     const skillmessage = this.props.data.skillmessage;
+    const softskillmessage = this.props.data.softskillmessage;
     const education = this.props.data.education.map(function (education) {
       return (
         <div key={education.school}>
@@ -63,7 +64,25 @@ class Resume extends Component {
           <div className="row skill">
             <div className="three columns header-col">
               <h1>
-                <span>Skills</span>
+                <span>Savoirs Faire</span>
+              </h1>
+            </div>
+
+            <div className="nine columns main-col">
+              <p>{skillmessage}</p>
+
+              <div className="bars">
+                <ul className="skills">{skills}</ul>
+              </div>
+            </div>
+          </div>
+        </Slide>
+
+        <Slide left duration={1300}>
+          <div className="row skill">
+            <div className="three columns header-col">
+              <h1>
+                <span>Savoirs Être</span>
               </h1>
             </div>
 

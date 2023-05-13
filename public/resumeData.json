@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Assassin Chloé",
-    "description":"Je suis développeuse C / C++ et j'ai aussi de solides connaissances en React, HTML, CSS, Javascript et Nest.js pour construire sites et API. Plus je maitrise la programmation plus je me sens challengée et empouvoirée de construire des solutions de plus en plus pousées", 
+    "description":"Je suis développeuse C / C++ et j'ai aussi de solides connaissances en React, HTML, CSS, Javascript et Nest.js pour construire sites et API. Plus je maîtrise la programmation plus je me sens challengée et empouvoirée de construire des solutions de plus en plus pousées", 
     "image":"ProfilePic.png",
     "bio":"Je suis étudiante à 42 Paris et je cherche le stage ou le travail qui me gardera investie et me permettra de progresser encore plus dans mes compétences. J'utilise ma passion et ma créativité pour trouver des solutions innovantes aux problèmes que je rencontre en programmation et je les laisse également s'exprimer au travers de diverses activités telles que le crochet, l'escalade, la création d'objets en epoxy, l'écriture de campagne de jeux de roles, les jeux vidéos, la peinture et le dessin...",
     "contactmessage":"Je serais ravie que vous me contactiez !",
@@ -39,7 +39,8 @@
     ]
   },
   "resume":{
-    "skillmessage":"Technologies",
+    "skillmessage":"Savoirs Faire",
+    "softskillmessage":"Savoirs Être",
     "education":[
       {
         "school":"42 - Paris",
@@ -108,6 +109,44 @@
       {
         "name":"Git",
         "level":"73%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"70%"
+      }
+    ],
+    "softskills":[
+      {
+        "name":"Travail en équipe",
+        "level":"85%"
+      },
+      {
+        "name":"Apprendre à apprendre",
+        "level":"90%"
+      },
+      {
+        "name":"Créativité",
+        "level":"98%"
+      },
+      {
+        "name":"Organisation",
+        "level":"75%"
+      },
+      {
+        "name":"Flexibilité",
+        "level":"80%"
+      },
+      {
+        "name":"Autonomie",
+        "level":"72%"
+      },
+      {
+        "name":"Empathie",
+        "level":"82%"
+      },      
+      {
+        "name":"Résilience",
+        "level":"68%"
       }
     ]
   },

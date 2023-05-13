@@ -30,6 +30,7 @@ class Footer extends Component {
                     Styleshout
                   </a>
                 </li>
+                <li>Libres modification par Chloé ASSASSIN - 2023</li>
               </ul>
             </div>
           </Fade>
