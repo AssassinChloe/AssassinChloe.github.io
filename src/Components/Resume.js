@@ -42,6 +42,18 @@ class Resume extends Component {
       );
     });
 
+    const softskills = this.props.data.softskills.map((softskills) => {
+      const backgroundColor = this.getRandomColor();
+      const className = "bar-expand " + softskills.name.toLowerCase();
+      const width = softskills.level;
+
+      return (
+        <li key={softskills.name}>
+          <span style={{ width, backgroundColor }} className={className}></span>
+          <em>{softskills.name}</em>
+        </li>
+      );
+    });
     return (
       <section id="resume">
         <Slide left duration={1300}>
